@@ -1,0 +1,234 @@
+*{
+    box-sizing: border-box; 
+    overflow:hidden;
+    font-family: cursive;
+}
+
+.bg ,html{
+    overflow:scroll;
+}
+
+
+.div1{
+    background-image: url('Images/fbg.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+}
+
+.div2{
+    /* background: url('Images/cta01.jpg') no-repeat center center fixed;   
+    background: url('Images/fbg.jpg') no-repeat center center fixed;*/
+    background-image: url('Images/fbg.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    color:white;
+}
+
+.box{
+    margin: 5%;
+}
+
+.block{
+    background-color: transparent;
+    text-align: center;
+    margin: 5%;
+    color:white;
+}
+
+
+.card-img-overlay {
+    background-color: rgba(#000, 0.4);
+}
+
+.avatar {
+    border: 0.1rem solid rgba(#fff, 0.3);
+    max-width: 3rem;
+}
+
+
+.footer{
+    background-color: #333;
+    padding-bottom: 5%;
+    color:darkgray;    
+}
+.logo{
+    color:#fff;
+    margin-bottom:3%; 
+}    
+hr.style1{
+    border-top: 1px solid #8c8b8b;
+    width:100%;
+
+}
+
+.copyright{
+    text-align: center;
+}
+
+ul.plain {
+    list-style: none;
+    padding-left: 0; 
+}
+ul.plain li {
+    margin-bottom: 1rem; 
+}
+ul.plain li .icon {
+    border-radius: 4px;
+    color: #ffffff;
+    display: inline-block;
+    margin-right: 1rem;
+    text-align: center;
+    width: 2rem;
+    height: 2rem;
+    line-height: 2rem;
+    background: rgba(0, 0, 0, 0.5); 
+}
+
+.row{
+    font-family: cursive;
+}
+.row .footer .block, {
+    font-family: cursive;
+}
+
+
+.wrapper{
+    background-image: url(Images/cta01.jpg);
+    background-color:#333;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+
+}
+.info{
+    background-color:#333;
+}
+
+.fa-users, .fa-id-card,.fa-address-book, .fa-files-o ,.fa-floppy-o, .fa-handshake-o{
+    color:#8B0000;
+}
+
+.container{
+color: black;
+}
+
+.userpic img {
+float: none;
+margin: 0 auto;
+width: 15%;
+height: 15%;
+-webkit-border-radius: 50% !important;
+-moz-border-radius: 50% !important;
+border-radius: 50% !important;
+}
+
+header {
+position: relative;
+background-color: black;
+height: 75vh;
+min-height: 25rem;
+width: 100%;
+overflow: hidden;
+}
+
+header video {
+position: absolute;
+top: 50%;
+left: 50%;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: 0;
+-ms-transform: translateX(-50%) translateY(-50%);
+-moz-transform: translateX(-50%) translateY(-50%);
+-webkit-transform: translateX(-50%) translateY(-50%);
+transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+position: relative;
+z-index: 2;
+}
+
+header .overlay {
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 100%;
+background: linear-gradient(to bottom right, #990000 0%, #000000 100%);
+opacity: 0.5;
+z-index: 1;
+}
+
+.div1 .overlay {
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 100%;
+background: #fff;
+opacity: 0.5;
+z-index: 1;
+}
+
+.div2 .overlay {
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 100%;
+background: #fff;
+opacity: 0.5;
+z-index: 1;
+}
+
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+.menu{
+    display: float;
+    font-size:30px;
+    cursor:pointer;
+}    

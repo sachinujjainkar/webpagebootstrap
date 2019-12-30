@@ -1,0 +1,437 @@
+<div class="card">
+                            <div class="card-img-overlay text-white d-flex flex-column justify-content-center">
+                                <blockquote class="blockquote text-right">
+                                  <p>"The haunting of history is ever present in Barcelona. I see cities as organisms, as living creatures. To me, Madrid is a man and Barcelona is a woman. And it's a woman who's extremely vain."</p>
+                                </blockquote>
+                                <div class="author d-flex align-items-center">
+                                    <img class="avatar rounded-circle mx-2" src="https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/robert.jpg" alt="Bologna">
+                                    Carlos Ruiz Zafon
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                                    
+                                    
+                                    <ul class="plain">
+                                            <li><a href="#"><i class="icon fa-twitter">&nbsp;</i>Twitter</a></li>
+                 
+                 
+                 
+                                            <li><a href="#"><i class="icon fa-facebook">&nbsp;</i>Facebook</a></li>
+                                            <li><a href="#"><i class="icon fa-instagram">&nbsp;</i>Instagram</a></li>
+                                            <li><a href="#"><i class="icon fa-github">&nbsp;</i>Github</a></li>
+                                    </ul>
+
+
+
+
+                                    
+                                    
+                                    ........
+                                    old
+
+
+
+
+
+    <div class="container-fluid ">
+        <div class="row justify-content-md-center">
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 bg-light m-4 px-2 ">
+                <h4>FEUGIAT CONSEQUAT<h4>
+                Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 bg-light  m-4 px-2">
+                <h4>FEUGIAT CONSEQUAT<h4>
+                Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 bg-light  m-4 px-2">
+                <h4>FEUGIAT CONSEQUAT<h4>
+                Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 bg-light  m-4 px-2">
+                <h4>FEUGIAT CONSEQUAT<h4>
+                Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 bg-light  m-4 px-2">
+                <h4>FEUGIAT CONSEQUAT<h4>
+                Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 bg-light  m-4 px-2">
+                <h4>FEUGIAT CONSEQUAT<h4>
+                Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.
+            </div>
+            
+        </div>  
+    </div>
+    
+</div>
+
+
+
+
+
+  <section id="about">
+                        <div class="container about-content mb-4">
+                                <div class="row">
+                                     <div class="col-md-4 bg-light rounded">
+                                            <div class="box hvr-grow-shadow">
+                                                    <div class="bl-box">
+                                                        <blockquote>
+                                                                <p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor.</p>
+                                                        </blockquote>
+                                                    </div>
+                                            <div class="author">
+                                                <p><img class="rounded-circle" src="img/bg.jpg" alt="" height="30px" width="30px"> - <span>John</span> CEO - ABC Inc.</p>
+                                            </div>
+    
+                                        </div>
+                                    </div>
+    
+    
+                                        <div class="col-md-4 bg-light rounded">
+                                            <div class="box hvr-grow-shadow">
+                                                    <div class="bl-box">
+                                                        <blockquote>
+                                                                <p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor.</p>
+                                                        </blockquote>
+                                                    </div>
+    
+                                                    <div class="author">
+                                                        <p><img class="rounded-circle" src="img/download.jpg" alt="" height="30px" width="30px"> - <span>John</span> CEO - ABC Inc.</p>
+                                                    </div>
+    
+                                            </div>
+                                        </div>
+    
+    
+                                        <div class="col-md-4 bg-light rounded">
+                                            <div class="box hvr-grow-shadow">
+                                                    <div class="bl-box">
+                                                        <blockquote >
+                                                                <p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor.</p>
+                                                        </blockquote>
+    
+                                                    </div>
+    
+                                                    <div class="author">
+                                                                <p><img class="rounded-circle" src="img/new.jpg" alt="" height="30px" width="30px"> - <span>John</span> CEO - ABC Inc.</p>
+                                                    </div>
+                                            </div>
+                                        </div>
+    
+                                </div>
+                            </div>
+                    </section>
+                  
+
+                              <!--
+    <div class="slideshow">
+        <img class="slide" src="Images/slideimg.jpg" alt='Browser not supporting'/>
+        <div class="centered">
+            <h1 class="display-3">Anchnato</h1>
+            <p>Anchanto is a global B2B SaaS company enabling warehouse management, omni-channel retail management; offers inventory management system</p>
+        </div>
+    </div>-->
+
+
+
+*{
+    box-sizing: border-box; 
+    overflow:hidden;
+    font-family: cursive;
+}
+
+.bg ,html{
+    height: 100%;
+    background-attachment:fixed;
+    overflow:scroll;
+    background-position: center;
+    background-repeat:repeat;
+    background-size: cover;
+}
+
+
+.div1{
+
+background-image: url('Images/fbg.jpg');
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+background-attachment: fixed;
+
+
+}
+
+
+.div2{
+
+/* background: url('Images/cta01.jpg') no-repeat center center fixed;   
+background: url('Images/fbg.jpg') no-repeat center center fixed;*/
+background-image: url('Images/fbg.jpg');
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+background-attachment: fixed;
+color:white;
+}
+
+.box{
+margin: 5%;
+}
+
+
+
+
+.block{
+background-color: transparent;
+text-align: center;
+margin: 5%;
+color:white;
+}
+
+
+.card-img-overlay {
+background-color: rgba(#000, 0.4);
+}
+
+.avatar {
+border: 0.1rem solid rgba(#fff, 0.3);
+max-width: 3rem;
+}
+
+
+.footer{
+background-color: #333;
+padding-bottom: 5%;
+color:darkgray;    
+}
+
+.logo{
+color:#fff;
+margin-bottom:3%; 
+}    
+hr.style1{
+border-top: 1px solid #8c8b8b;
+width:100%;
+
+}
+
+.copyright{
+text-align: center;
+}
+
+ul.plain {
+list-style: none;
+padding-left: 0; 
+}
+ul.plain li {
+margin-bottom: 1rem; 
+}
+ul.plain li .icon {
+border-radius: 4px;
+color: #ffffff;
+display: inline-block;
+margin-right: 1rem;
+text-align: center;
+width: 2rem;
+height: 2rem;
+line-height: 2rem;
+background: rgba(0, 0, 0, 0.5); 
+}
+
+.row{
+font-family: cursive;
+}
+
+
+
+.row .footer .block, {
+
+font-family: cursive;
+
+}
+
+
+
+
+/* Mobile */
+
+@media (max-width: 767px) { 
+
+body {
+font-size: 25px;
+}
+    
+}
+
+
+/* social icons*/
+.listing-block .list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+
+.listing-block .list-inline>li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.listing-block .list-inline>li a {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    text-align: center;
+    width:40px;
+    height:40px;
+    font-size: 20px;
+}
+
+.listing-block .list-inline a.icoFacebook:hover {
+    background-color: #3B5998;
+}
+.listing-block .list-inline a.icotwitter:hover {
+    background-color: #0084b4;
+}
+
+.listing-block .list-inline a.icogoogle-plus:hover {
+    background-color:#dd4b39;
+}
+
+.listing-block .list-inline a.icolinkedin:hover {
+    background-color:#0077B5;
+}
+
+.listing-block .list-inline>li a:hover i, .triggeredHover {
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -ms--transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    transition: all 0.2s;
+}
+    
+.listing-block .list-inline li i {
+    margin: 0;
+    line-height:40px;
+    text-align: center;
+}
+    
+.listing-block .list-inline .social-circle i {
+    color: #fff;
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    -o-transition: all 0.8s;
+    -ms-transition: all 0.8s;
+    transition: all 0.8s;
+}
+
+.listing-block .list-inline a {
+    color:#fff;
+    background-color:#818182;
+}
+
+.wrapper{
+    background-color:#333;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+
+}
+.info{
+    background-color:#333;
+}
+
+.fa-users, .fa-id-card,.fa-address-book, .fa-files-o ,.fa-floppy-o, .fa-handshake-o{
+    color:#8B0000;
+}
+
+
+.container{
+color: black;
+}
+
+.userpic img {
+float: none;
+margin: 0 auto;
+width: 15%;
+height: 15%;
+-webkit-border-radius: 50% !important;
+-moz-border-radius: 50% !important;
+border-radius: 50% !important;
+}
+
+header {
+position: relative;
+background-color: black;
+height: 75vh;
+min-height: 25rem;
+width: 100%;
+overflow: hidden;
+}
+
+header video {
+position: absolute;
+top: 50%;
+left: 50%;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: 0;
+-ms-transform: translateX(-50%) translateY(-50%);
+-moz-transform: translateX(-50%) translateY(-50%);
+-webkit-transform: translateX(-50%) translateY(-50%);
+transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+position: relative;
+z-index: 2;
+}
+
+header .overlay {
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 100%;
+background: linear-gradient(to bottom right, #990000 0%, #000000 100%);
+opacity: 0.5;
+z-index: 1;
+}
+
+.div1 .overlay {
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 100%;
+background: #fff;
+opacity: 0.5;
+z-index: 1;
+}
+
+.div2 .overlay {
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 100%;
+background: #fff;
+opacity: 0.5;
+z-index: 1;
+}
